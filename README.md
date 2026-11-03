@@ -83,10 +83,10 @@
 <div align="center">
 
 
-<a href="https://github.com/tcl233/PROJECT_NAME_1">
+<a href="https://github.com/tcl233/musicfree-plugins">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=tcl233&repo=PROJECT_NAME_1&theme=tokyonight&hide_border=true" />
 </a>
-<a href="https://github.com/tcl233/PROJECT_NAME_2">
+<a href="https://github.com/tcl233/dsh-pet">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=tcl233&repo=PROJECT_NAME_2&theme=tokyonight&hide_border=true" />
 </a>
 
