@@ -47,7 +47,6 @@
 
 ## 🛠️ Tech Stack
 
-> Keep only the technologies you can confidently discuss. These are illustrative skill badges, not proof of proficiency.
 
 **Languages**
 
@@ -76,28 +75,10 @@
 - **LLM applications:** RAG, LangGraph, Spring AI, and LangChain4j.
 - **Engineering foundations:** API design, observability, reliability, and deployment.
 
-## 🚀 Featured Projects
-
-<!-- Replace PROJECT_NAME and the URLs with real repositories you own. -->
-
-<div align="center">
-
-
-<a href="https://github.com/tcl233/musicfree-plugins">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tcl233&repo=PROJECT_NAME_1&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/tcl233/dsh-pet">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tcl233&repo=PROJECT_NAME_2&theme=tokyonight&hide_border=true" />
-</a>
-
-</div>
-
-*If you have not selected projects yet, replace this section with links to your best repositories or remove the cards for now.*
 
 ## 📊 GitHub Statistics
 
 <div align="center">
-
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=tcl233&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tcl233&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
