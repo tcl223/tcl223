@@ -10,9 +10,9 @@
 >
 > — Paul Graham
 
-> “The snake which cannot cast its skin has to die.”
+> “Philosophy, Science, Mathematics, Humanities”
 >
-> — Friedrich Nietzsche
+> -tcl
 
 ---
 
